@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VideoApp.Core.Entity\VideoApp.Core.Entity.csproj" />
+    <ProjectReference Include="..\VideoApp.Core\VideoApp.Core.csproj" />
+  </ItemGroup>
+
+</Project>
